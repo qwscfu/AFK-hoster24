@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "66.165.249.44",
-    "port": 25575,
+    "ip": "server.hoster24.org",
+    "port": 24804,
     "version": "",
     "try-creative": false
   },
